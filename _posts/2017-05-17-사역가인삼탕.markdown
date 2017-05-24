@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "사역가인삼탕"
+comments: true
 ---
 **감초 건강 인삼 부자**
 
